@@ -1,0 +1,7 @@
+<resources>
+    <string name="appName">Concat Adapter</string>
+
+    <string name="gotIt">Got it</string>
+    <string name="addTip">Add Tip</string>
+
+</resources>
